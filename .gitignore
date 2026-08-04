@@ -1,0 +1,62 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ─── Environment ─────────────────────────────────────────────────────────────
+.env
+*.env.local
+*.env.*.local
+
+# ─── IDE ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── Data files (keep structure, ignore large data) ──────────────────────────
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.csv
+data/processed/*.xlsx
+data/exports/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+
+# ─── Reports ─────────────────────────────────────────────────────────────────
+reports/monthly/*.pdf
+reports/quarterly/*.pdf
+reports/executive/*.pdf
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ─── Notebooks checkpoints ───────────────────────────────────────────────────
+notebooks/.ipynb_checkpoints/
+
+# ─── Power BI (keep .pbix tracked if desired; ignore auto-saves) ─────────────
+*.pbix.tmp
+
+# ─── Test cache ──────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,139 @@
+{
+  "report_type": "Executive Summary",
+  "period": "2024",
+  "generated_at": "2026-07-26T13:50:40.540399",
+  "headline_kpis": {
+    "Total Revenue": "$1,151,417,952.61",
+    "Total Orders": "4,720",
+    "Inventory Value": "$252,629,728.13",
+    "On-Time Delivery": "60.16%",
+    "Inventory Turnover": "2.43x",
+    "Gross Margin": "46.66%"
+  },
+  "operational_kpis": {
+    "Fill Rate": "100.00%",
+    "Stock-Out Rate": "0.00%",
+    "Avg Delivery Time": "16.8 days",
+    "Delayed Deliveries": "1,793",
+    "Avg Supplier Lead Time": "23.9 days",
+    "Supplier Reliability": "60.11%"
+  },
+  "revenue_trend": [
+    {
+      "Order_Date": "2022-03-31",
+      "Revenue": 97198678.26,
+      "Orders": 408,
+      "Avg_Order_Value": 238232.05
+    },
+    {
+      "Order_Date": "2022-06-30",
+      "Revenue": 100090129.64,
+      "Orders": 410,
+      "Avg_Order_Value": 244122.27
+    },
+    {
+      "Order_Date": "2022-09-30",
+      "Revenue": 101628991.3,
+      "Orders": 419,
+      "Avg_Order_Value": 242551.29
+    },
+    {
+      "Order_Date": "2022-12-31",
+      "Revenue": 92879693.65,
+      "Orders": 381,
+      "Avg_Order_Value": 243778.72
+    },
+    {
+      "Order_Date": "2023-03-31",
+      "Revenue": 89457727.13,
+      "Orders": 372,
+      "Avg_Order_Value": 240477.76
+    },
+    {
+      "Order_Date": "2023-06-30",
+      "Revenue": 87894962.08,
+      "Orders": 381,
+      "Avg_Order_Value": 230695.44
+    },
+    {
+      "Order_Date": "2023-09-30",
+      "Revenue": 100226728.62,
+      "Orders": 397,
+      "Avg_Order_Value": 252460.27
+    },
+    {
+      "Order_Date": "2023-12-31",
+      "Revenue": 105537910.88,
+      "Orders": 407,
+      "Avg_Order_Value": 259306.91
+    },
+    {
+      "Order_Date": "2024-03-31",
+      "Revenue": 101314686.63,
+      "Orders": 399,
+      "Avg_Order_Value": 253921.52
+    },
+    {
+      "Order_Date": "2024-06-30",
+      "Revenue": 103435933.15,
+      "Orders": 394,
+      "Avg_Order_Value": 262527.75
+    },
+    {
+      "Order_Date": "2024-09-30",
+      "Revenue": 84693513.49,
+      "Orders": 368,
+      "Avg_Order_Value": 230145.42
+    },
+    {
+      "Order_Date": "2024-12-31",
+      "Revenue": 87058997.78,
+      "Orders": 384,
+      "Avg_Order_Value": 226716.14
+    }
+  ],
+  "top_products": [
+    {
+      "Product_ID": "PRD0122",
+      "Category": "Textiles",
+      "Total_Revenue": 9921575.47,
+      "Total_Quantity": 3997,
+      "Order_Count": 40
+    },
+    {
+      "Product_ID": "PRD0029",
+      "Category": "Textiles",
+      "Total_Revenue": 9299405.8,
+      "Total_Quantity": 4312,
+      "Order_Count": 38
+    },
+    {
+      "Product_ID": "PRD0171",
+      "Category": "Machinery",
+      "Total_Revenue": 9234208.56,
+      "Total_Quantity": 3717,
+      "Order_Count": 35
+    },
+    {
+      "Product_ID": "PRD0101",
+      "Category": "Safety Equipment",
+      "Total_Revenue": 9180906.41,
+      "Total_Quantity": 3074,
+      "Order_Count": 28
+    },
+    {
+      "Product_ID": "PRD0036",
+      "Category": "Raw Materials",
+      "Total_Revenue": 8783100.09,
+      "Total_Quantity": 3137,
+      "Order_Count": 27
+    }
+  ],
+  "recommendations": [
+    "📦 Overstock rate is 40.0%. Consider clearance promotions or supplier return agreements to free capital.",
+    "🚚 On-time delivery is 60.2% (below 85% target). Evaluate carrier contracts and consider adding backup carriers for high-risk routes.",
+    "🔴 12 supplier(s) rated Poor. Initiate supplier improvement plans or qualify alternative vendors.",
+    "🔄 Inventory turnover is 2.43x (low). Reduce safety stock buffers for slow-moving categories or negotiate JIT delivery.",
+    "⏱ Average supplier lead time is 24 days. Explore regional suppliers or consignment stock to reduce lead-time risk."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "report_type": "KPI Summary",
+  "generated_at": "2026-07-26T13:50:40.471568",
+  "executive_kpis": {
+    "total_revenue": 1151417952.61,
+    "total_orders": 4720,
+    "total_inventory_value": 252629728.13,
+    "on_time_delivery_pct": 60.16,
+    "inventory_turnover_ratio": 2.43,
+    "total_suppliers": 50,
+    "avg_order_value": 243944.48,
+    "total_gross_profit": 537268085.36,
+    "gross_margin_pct": 46.66,
+    "cancelled_order_pct": 5.6
+  },
+  "inventory_kpis": {
+    "current_stock_total": 189847,
+    "safety_stock_total": 55331,
+    "inventory_value": 252629728.13,
+    "stock_out_rate": 0.0,
+    "overstock_rate": 40.0,
+    "low_stock_count": 32,
+    "fill_rate_pct": 100.0,
+    "avg_margin_pct": 49.11
+  },
+  "logistics_kpis": {
+    "avg_delivery_time": 16.77,
+    "delayed_deliveries": 1793,
+    "on_time_delivery_pct": 60.16,
+    "total_transport_cost": 11479854.9,
+    "avg_delay_days": 3.36,
+    "total_shipments": 4500,
+    "on_time_count": 2707
+  },
+  "supplier_kpis": {
+    "avg_reliability_score": 0.7565,
+    "avg_lead_time": 23.92,
+    "total_supplier_cost": 4888562.18,
+    "excellent_suppliers": 7,
+    "poor_suppliers": 12,
+    "total_suppliers": 50,
+    "delivery_reliability_pct": 60.11
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "report_type": "Quarterly",
+  "period": "2024 Q3",
+  "generated_at": "2026-07-26T13:50:40.306948",
+  "summary": {
+    "revenue": "$84,693,513.49",
+    "gross_profit": "$38,543,933.33",
+    "gross_margin_pct": "45.51%",
+    "total_orders": "368",
+    "new_suppliers": "50"
+  },
+  "inventory_kpis": {
+    "current_stock_total": 189847,
+    "safety_stock_total": 55331,
+    "inventory_value": 252629728.13,
+    "stock_out_rate": 0.0,
+    "overstock_rate": 40.0,
+    "low_stock_count": 32,
+    "fill_rate_pct": 100.0,
+    "avg_margin_pct": 49.11
+  },
+  "logistics_kpis": {
+    "avg_delivery_time": 16.77,
+    "delayed_deliveries": 1793,
+    "on_time_delivery_pct": 60.16,
+    "total_transport_cost": 11479854.9,
+    "avg_delay_days": 3.36,
+    "total_shipments": 4500,
+    "on_time_count": 2707
+  },
+  "supplier_kpis": {
+    "avg_reliability_score": 0.7565,
+    "avg_lead_time": 23.92,
+    "total_supplier_cost": 4888562.18,
+    "excellent_suppliers": 7,
+    "poor_suppliers": 12,
+    "total_suppliers": 50,
+    "delivery_reliability_pct": 60.11
+  },
+  "top_products": [
+    {
+      "Product_ID": "PRD0122",
+      "Category": "Textiles",
+      "Total_Revenue": 9921575.47,
+      "Total_Quantity": 3997,
+      "Order_Count": 40
+    },
+    {
+      "Product_ID": "PRD0029",
+      "Category": "Textiles",
+      "Total_Revenue": 9299405.8,
+      "Total_Quantity": 4312,
+      "Order_Count": 38
+    },
+    {
+      "Product_ID": "PRD0171",
+      "Category": "Machinery",
+      "Total_Revenue": 9234208.56,
+      "Total_Quantity": 3717,
+      "Order_Count": 35
+    },
+    {
+      "Product_ID": "PRD0101",
+      "Category": "Safety Equipment",
+      "Total_Revenue": 9180906.41,
+      "Total_Quantity": 3074,
+      "Order_Count": 28
+    },
+    {
+      "Product_ID": "PRD0036",
+      "Category": "Raw Materials",
+      "Total_Revenue": 8783100.09,
+      "Total_Quantity": 3137,
+      "Order_Count": 27
+    },
+    {
+      "Product_ID": "PRD0185",
+      "Category": "Office Supplies",
+      "Total_Revenue": 8763481.21,
+      "Total_Quantity": 3621,
+      "Order_Count": 32
+    },
+    {
+      "Product_ID": "PRD0099",
+      "Category": "Machinery",
+      "Total_Revenue": 8656886.25,
+      "Total_Quantity": 3422,
+      "Order_Count": 30
+    },
+    {
+      "Product_ID": "PRD0105",
+      "Category": "Textiles",
+      "Total_Revenue": 8435228.04,
+      "Total_Quantity": 3267,
+      "Order_Count": 34
+    },
+    {
+      "Product_ID": "PRD0199",
+      "Category": "Industrial Parts",
+      "Total_Revenue": 8279447.41,
+      "Total_Quantity": 3479,
+      "Order_Count": 34
+    },
+    {
+      "Product_ID": "PRD0090",
+      "Category": "Raw Materials",
+      "Total_Revenue": 8233286.57,
+      "Total_Quantity": 3211,
+      "Order_Count": 28
+    }
+  ],
+  "category_breakdown": [
+    {
+      "Category": "Textiles",
+      "Product_Count": 28,
+      "Total_Stock": 28957,
+      "Total_Value": 37554340.15,
+      "Avg_Stock": 1034.18,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Packaging",
+      "Product_Count": 18,
+      "Total_Stock": 18728,
+      "Total_Value": 33234285.92,
+      "Avg_Stock": 1040.44,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Industrial Parts",
+      "Product_Count": 21,
+      "Total_Stock": 23908,
+      "Total_Value": 32882559.51,
+      "Avg_Stock": 1138.48,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Machinery",
+      "Product_Count": 21,
+      "Total_Stock": 22179,
+      "Total_Value": 31860826.15,
+      "Avg_Stock": 1056.14,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Safety Equipment",
+      "Product_Count": 21,
+      "Total_Stock": 19919,
+      "Total_Value": 30077365.18,
+      "Avg_Stock": 948.52,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Raw Materials",
+      "Product_Count": 24,
+      "Total_Stock": 22096,
+      "Total_Value": 27488119.39,
+      "Avg_Stock": 920.67,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Consumables",
+      "Product_Count": 21,
+      "Total_Stock": 12214,
+      "Total_Value": 18501876.01,
+      "Avg_Stock": 581.62,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Office Supplies",
+      "Product_Count": 20,
+      "Total_Stock": 16945,
+      "Total_Value": 16519342.83,
+      "Avg_Stock": 847.25,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Chemicals",
+      "Product_Count": 16,
+      "Total_Stock": 13841,
+      "Total_Value": 13038381.65,
+      "Avg_Stock": 865.06,
+      "Stock_Out_Count": 0
+    },
+    {
+      "Category": "Electronics",
+      "Product_Count": 10,
+      "Total_Stock": 11060,
+      "Total_Value": 11472631.34,
+      "Avg_Stock": 1106.0,
+      "Stock_Out_Count": 0
+    }
+  ]
+}

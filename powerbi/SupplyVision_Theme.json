@@ -1,0 +1,121 @@
+{
+  "name": "SupplyVision Enterprise Theme",
+  "version": "1.0.0",
+  "dataColors": [
+    "#2E86C1",
+    "#1A5276",
+    "#0A2342",
+    "#1E8449",
+    "#F39C12",
+    "#C0392B",
+    "#7F8C8D",
+    "#2ECC71",
+    "#E74C3C",
+    "#3498DB"
+  ],
+  "background": "#F2F4F7",
+  "foreground": "#0A2342",
+  "tableAccent": "#2E86C1",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize":   [{ "value": 11 }],
+        "color":      [{ "solid": { "color": "#0A2342" } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background":    [{ "solid": { "color": "#FFFFFF" } }],
+        "border":        [{ "show": true, "color": { "solid": { "color": "#E8ECF0" } }, "radius": 8 }],
+        "dropShadow":    [{ "show": true }],
+        "padding":       [{ "top": 16, "right": 16, "bottom": 16, "left": 16 }]
+      },
+      "labels": {
+        "color":      [{ "solid": { "color": "#0A2342" } }],
+        "fontSize":   [{ "value": 28 }],
+        "fontFamily": [{ "value": "Segoe UI Semibold" }]
+      },
+      "categoryLabels": {
+        "color":      [{ "solid": { "color": "#1A5276" } }],
+        "fontSize":   [{ "value": 11 }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#E8ECF0" } }, "radius": 8 }]
+      },
+      "valueAxis": {
+        "gridlineColor": [{ "solid": { "color": "#E8ECF0" } }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#E8ECF0" } }, "radius": 8 }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#E8ECF0" } }, "radius": 8 }]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#E8ECF0" } }, "radius": 8 }]
+      }
+    },
+    "tableEx": {
+      "header": {
+        "fontColor":        [{ "solid": { "color": "#FFFFFF" } }],
+        "backColor":        [{ "solid": { "color": "#0A2342" } }],
+        "fontSize":         [{ "value": 11 }],
+        "fontFamily":       [{ "value": "Segoe UI Semibold" }]
+      },
+      "rows": {
+        "fontColor":        [{ "solid": { "color": "#0A2342" } }],
+        "backColor":        [{ "solid": { "color": "#FFFFFF" } }],
+        "alternateBackColor": [{ "solid": { "color": "#F2F4F7" } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#2E86C1" } }, "radius": 6 }]
+      },
+      "selection": {
+        "selectAllCheckboxEnabled": [{ "value": true }]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [{ "solid": { "color": "transparent" } }]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontSize":   24,
+      "fontFamily": "Segoe UI Semibold",
+      "color":      "#0A2342"
+    },
+    "header": {
+      "fontSize":   14,
+      "fontFamily": "Segoe UI Semibold",
+      "color":      "#1A5276"
+    },
+    "label": {
+      "fontSize":   11,
+      "fontFamily": "Segoe UI",
+      "color":      "#0A2342"
+    },
+    "callout": {
+      "fontSize":   32,
+      "fontFamily": "Segoe UI Light",
+      "color":      "#0A2342"
+    }
+  }
+}
