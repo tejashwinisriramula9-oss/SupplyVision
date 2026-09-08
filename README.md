@@ -11,6 +11,8 @@
 > a full end-to-end analytics platform — Python ETL, MySQL star schema, FastAPI backend,
 > predictive demand forecasting, and five interactive Power BI dashboards.
 
+##Dashboard - https://app.powerbi.com/reportEmbed?reportId=727db0a0-c3ae-412f-9d8a-255a9408fc21&autoAuth=true&ctid=4580cbc0-d2d6-45ab-a7e4-3f99149acd27
+
 ---
 
 ## Project Overview
